@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma-Hasiru Plantation Tracker</string>
+    <string name="app_bar_title">Namma-Hasiru 🌱</string>
+    <string name="notification_channel_name">Tree check reminders</string>
+    <string name="notification_channel_description">Reminders to verify sapling survival after 90 days</string>
+    <string name="reminder_notification_title">Time to check your tree!</string>
+    <string name="reminder_notification_body">%1$s — planted on %2$s</string>
+</resources>
